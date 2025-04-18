@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ACI AAU Chapter | Newsletter Issue 01</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #f7f7f7;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      padding: 20px;
+    }
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    .highlight {
+      background: #ecf0f1;
+      padding: 10px;
+      border-left: 4px solid #2980b9;
+    }
+    .event, .opportunity {
+      margin-bottom: 10px;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #888;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🧱 ACI AAU Chapter</h1>
+    <h3>Quarterly Newsletter | Issue 01 | April 2025</h3>
+
+    <div class="section">
+      <h2>📣 Message from the Chair</h2>
+      <p class="highlight">
+        "As we kick off our first quarterly newsletter, I’m thrilled to see how far our chapter has come. From insightful technical talks to hands-on workshops, each event brings us closer to becoming the next generation of innovative civil engineers. This platform will serve as our voice—sharing knowledge, celebrating wins, and building stronger connections."<br><br>
+        — <strong>[Chairperson's Name]</strong>, Chair, ACI AAU Student Chapter
+      </p>
+    </div>
+
+    <div class="section">
+      <h2>🌟 Recent Highlights</h2>
+      <div class="highlight">
+        <strong>Concrete Innovation Seminar – February 2025:</strong> Over 120 attendees joined our seminar on sustainable mix designs with engaging Q&A sessions.
+      </div>
+      <div class="highlight">
+        <strong>Site Visit – AAU Construction Lab:</strong> Students explored concrete testing and structural behavior firsthand.
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>📅 Upcoming Events</h2>
+      <div class="event">🧱 <strong>Concrete Cube Crushing Competition</strong> – May 10, 2025</div>
+      <div class="event">🎤 <strong>Guest Lecture: The Future of Reinforced Concrete</strong> – June 5, 2025</div>
+      <div class="event">🧪 <strong>Competition Prep Workshop</strong> – June 22, 2025</div>
+    </div>
+
+    <div class="section">
+      <h2>👷 Member Spotlight</h2>
+      <p><strong>Kalkidan Mulugeta</strong> – A 3rd-year civil engineering student, team leader, and bridge design enthusiast who stood out in our last mix design challenge.</p>
+    </div>
+
+    <div class="section">
+      <h2>🧠 Technical Insight</h2>
+      <p><strong>SCMs (Supplementary Cementitious Materials)</strong> improve concrete's sustainability and durability. Fly ash, slag, and silica fume reduce cement content and carbon footprint.</p>
+    </div>
+
+    <div class="section">
+      <h2>🚀 Opportunities</h2>
+      <div class="opportunity">🔹 Internship at [Company Name] – Apply by May 1</div>
+      <div class="opportunity">🔹 ACI International Paper Competition – Submit by June 30</div>
+      <div class="opportunity">🔹 Volunteer Openings – Help organize events or manage content</div>
+    </div>
+
+    <div class="section">
+      <h2>🎉 Fun Corner</h2>
+      <p><strong>Riddle of the Month:</strong> "I hold structures together, but I’m not glue. I’m in beams and slabs—guess who?"<br>
+      <em>Answer: Reinforcement steel!</em></p>
+      <p><strong>Meme of the Month:</strong> When you forget to cure your concrete... (insert meme image)</p>
+    </div>
+
+    <footer>
+      Follow us on Instagram | LinkedIn | Telegram<br>
+      Contact us: aci.aau.chapter@email.com<br>
+      &copy; 2025 ACI AAU Student Chapter
+    </footer>
+  </div>
+</body>
+</html>
